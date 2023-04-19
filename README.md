@@ -7,13 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F1FAEE&center=true&vCenter=true&width=435&lines=AI+enthusiast;C%2B%2B+and+Python enjoyer" alt="Typing SVG" />
 </div>
 
-<!-- Social badges -->
-
-<div align="center"style="margin-bottom: 20px">
-    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="14">
-    <p style="display: inline; font-size: 13px; color: #fff; font-family: 'Fira Code'; font-weight: 200; margin-bottom: 5px">MathiasKES#3563</p>
-</div>
-
 <!-- Intro -->
 <div align="left">
     <p style="font-size: 13px; color: #A8DADC; font-family: 'Fira Code'; margin-bottom: 5px">
@@ -21,5 +14,8 @@
     </p>
     <p style="font-size: 13px; color: #A8DADC; font-family: 'Fira Code'; margin-bottom: 5px">
         🌱 I’m currently learning AI and other stuff that interest me.
+    </p>
+    <p style="font-size: 13px; color: #A8DADC; font-family: 'Fira Code'; margin-bottom: 5px">
+        🤙🏽 Discord: MathiasKES#3563
     </p>
 </div>
