@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165.25" height="28" role="img" aria-label="Discord: MathiasKES#3563">
     <title>Discord: MathiasKES#3563</title>
     <g shape-rendering="crispEdges">
-        <rect width="28" height="28" fill="#282b30"></rect>
-        <rect x="28" width="130" height="28" fill="#36393e"></rect>
+        <rect width="28" height="28" fill="#282b30"/>
+        <rect x="28" width="130" height="28" fill="#36393e"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family='Fira Code' text-rendering="geometricPrecision" font-size="100">
-        <image x="5" y="5" width="18" height="18" href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"></image>
+        <image x="5" y="5" width="18" height="18" href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"/>
         <text transform="scale(.12)" x="780" y="150" textLength="950" fill="#fff">MathiasKES#3563</text>
     </g>
 </svg>

@@ -4,12 +4,13 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=E63946&center=true&vCenter=true&repeat=false&width=435&lines=Mathias+K.+E.+S%C3%B8rensen" alt="Typing SVG" />
     <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F1FAEE&center=true&vCenter=true&width=435&lines=AI+enthusiast;Enjoyer+of+C%2B%2B+and+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=F1FAEE&center=true&vCenter=true&width=435&lines=AI+enthusiast;C%2B%2B+and+Python enjoyer" alt="Typing SVG" />
 </div>
 
 <!-- Social badges -->
+
 <div align="center"style="margin-bottom: 20px">
-    <img alt="Discord @" title="MathiasKES#3563" src="discord-badge.svg"/>
+    <img src="discord-badge.svg">
 </div>
 
 <!-- Intro -->
