@@ -10,7 +10,8 @@
 <!-- Social badges -->
 
 <div align="center"style="margin-bottom: 20px">
-    <img src="discord-badge.svg">
+    <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="14">
+    <p style="display: inline; font-size: 13px; color: #fff; font-family: 'Fira Code'; font-weight: 200; margin-bottom: 5px">MathiasKES#3563</p>
 </div>
 
 <!-- Intro -->
