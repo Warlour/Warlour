@@ -10,10 +10,7 @@
 <!-- Intro -->
 <div align="left">
     <p style="font-size: 13px; color: #A8DADC; font-family: 'Fira Code'; margin-bottom: 5px">
-        👨🏽‍💻 I’m currently only using GitHub as a platform for developing software when I get an idea!
-    </p>
-    <p style="font-size: 13px; color: #A8DADC; font-family: 'Fira Code'; margin-bottom: 5px">
-        🌱 I’m currently learning AI and other stuff that interest me.
+        👨🏽‍💻 I use GitHub for personal use and education!
     </p>
     <p style="font-size: 13px; color: #A8DADC; font-family: 'Fira Code'; margin-bottom: 5px">
         🤙🏽 Discord: MathiasKES#3563
